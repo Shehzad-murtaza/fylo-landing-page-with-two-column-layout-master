@@ -311,13 +311,13 @@
     min-width: 900px;
     width: 90%;
     height: 350px;
-    background-color: rgb(87 89 137);
+    background-color: rgb(101, 103, 143);
     padding-inline: 5%;
   }
   footer{
     min-width: 900px;
     width: 90%;
-    height: 350px;
+    height: 300px;
     padding: 5%;
     background-color: rgb(7 4 59);
   }
