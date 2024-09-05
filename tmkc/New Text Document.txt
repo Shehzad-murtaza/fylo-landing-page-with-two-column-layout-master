@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ni
+=======
+
+segs sugs?
+>>>>>>> fc2dd6e89df668c7729a9c57902bedca481a5a58
